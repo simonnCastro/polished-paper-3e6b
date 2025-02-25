@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "polished-paper-3e6b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "988fe427-daed-47e6-b75c-f499d7fde7cb",
+      "database_name": "square-river-9ef2-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
